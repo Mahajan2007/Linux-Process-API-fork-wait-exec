@@ -47,7 +47,8 @@ int main(void)
 	return 0; }
 ```
 ## OUTPUT
-![1](output1.png)
+![exp2op1](https://github.com/user-attachments/assets/dc8ab158-13b4-434f-b8bd-c80661b98574)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -77,7 +78,8 @@ int main() {
 ```
 
 ## OUTPUT
-![2](2.png)
+![exp2op2](https://github.com/user-attachments/assets/c74e9c43-01f2-4061-aa38-36d70e58b223)
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -111,7 +113,7 @@ int main() {
 ```
 
 ## OUTPUT
-![3](3.png)
+![exp2op3](https://github.com/user-attachments/assets/c829d1cf-c2b0-4815-9860-907e3d1a00ca)
 
 # RESULT:
 The programs are executed successfully.
